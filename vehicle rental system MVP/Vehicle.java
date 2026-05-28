@@ -7,7 +7,6 @@
  * and accessed through getters/setters (encapsulation).
  */
 public abstract class Vehicle {
-z
     // ── Encapsulation: private fields (V2.0) ─────────────────────────────────
     private String vehicleId;
     private String brand;
